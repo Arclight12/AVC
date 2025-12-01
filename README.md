@@ -1,6 +1,7 @@
 # Aevic Transduction System (ATS)
 ### Multi-Stage Biosignal Encoding & Symbolic Transduction Framework
 
+<pre>
 ┌───────────────────────────────────────────────────────────┐
 │                                                           │
 │   █████╗ ███████╗██╗   ██╗██╗ ██████╗                     │
@@ -14,6 +15,8 @@
 │       Modular Biosignal Encoding & Symbolic Framework     │
 │                                                           │
 └───────────────────────────────────────────────────────────┘
+</pre>
+
 
 ## Executive Summary
 
