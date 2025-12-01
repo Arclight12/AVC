@@ -1,0 +1,2 @@
+﻿from .gru.sensor_to_phoneme_gru import SensorToPhonemeGRU
+from .transformer.sensor_to_phoneme_transformer import SensorToPhonemeTransformer
